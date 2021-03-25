@@ -6,7 +6,7 @@ now and still going!.
 
 Just to be honest here.. I don't know what to put in this README.md file or maybe im just too lazy. 
 but soon i will add more to it and add more projects to my repositories so stay tuned hopefully..? 
-But generally yeah that's pretty much it!.
+I don't have anything more to say so that's it!.
 
 Edit:
 Sorry for my bad grammar and bad spelling of words!
