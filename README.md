@@ -1,14 +1,13 @@
-# General profile #
+## Overview
+Hey im Hkaar, im a python dev that makes games, packages, tools, etc. with python.
+I've been learning python for some time now, so i have experience but still learning.
+If you want to see some of my projects just check out my profile and you'll see some
+of them.
 
-Hey! im Hkaar, a guy that does random projets and stuff with the python3 programming language.
-I like to make random projects that im interested in. I've been learning python3 for 7 months
-now and still going!. 
+## Projects
+Some of the projects that i've worked on, are:
+- Battle Ship // A Battle Ship game made with PySide2 & Python3
+- UI Manager // A UI Manager for PyQt & PySide
+- Multi-purpose-framework-for-python3 // A Multi Purpose framework for python3, used for debugging & etc
 
-Just to be honest here.. I don't know what to put in this README.md file or maybe im just too lazy. 
-but soon i will add more to it and add more projects to my repositories so stay tuned hopefully..? 
-I don't have anything more to say so that's it!.
-
-Edit:
-Sorry for my bad grammar and bad spelling of words!
-
-- Hkaar March 25th 2021
+Wrriten on: 3 December 2021
