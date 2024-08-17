@@ -6,6 +6,10 @@ Want to get in contact? check me out on these platforms:
 
 - Twitter / X : @Hkaar5
 
+For work inquiries, please contact the email below:
+
+shavashava42@gmail.com
+
 Here's a table for an extra reward
 
 ( °□°) ︵ ┻━┻ 
