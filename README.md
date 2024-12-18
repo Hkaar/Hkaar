@@ -8,7 +8,7 @@ Want to get in contact? check me out on these platforms:
 
 For work inquiries, please contact the email below:
 
-shavashava42@gmail.com
+hkaar@duck.com
 
 Here's a table for an extra reward
 
