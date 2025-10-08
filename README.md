@@ -16,11 +16,11 @@
 
 ###
 
-<p align="left">I'm Shava Jaya (Hkaar), a Software Developer that's specializes in developing Websites & Full-stack Web Apps using a variety of technologies or tech-stacks. I mainly use HTML, CSS, JavaScript (now mostly Typescript), PHP, Laravel, React, Next.js, Astro.js as the main languages, libraries and frameworks for development. For databases, i mainly use PostgreSQL & MySQL for my projects, and use Figma as my design & prototyping tool for UI/UX.</p>
+<p align="left">I'm Shava Jaya (Hkaar), a Software Developer that specializes in developing Websites & Full-stack Web Apps using a variety of technologies or tech-stacks. I mainly use HTML, CSS, JavaScript (now mostly Typescript), PHP, Laravel, React, Next.js, Astro.js as the main languages, libraries and frameworks for development. For databases, i mainly use PostgreSQL & MySQL for my projects, and use Figma as my design & prototyping tool for UI/UX.</p>
 
 ###
 
-<p align="left">Though i also do have experience in Python, but this is for general purpose use, this could be Web, Desktop GUI's, and Data processing. Besides i'm also exploring in using Svelte as an addon to my stack and also Flutter as i'm currently expanding into mobile development too.</p>
+<p align="left">I also do have experience in Python, Though it's mainly for general purpose use, this could be Web, Desktop GUI's, and Data processing. Besides i'm also exploring in using Svelte as an addon to my stack and also Flutter as i'm currently expanding into mobile development too.</p>
 
 ###
 
