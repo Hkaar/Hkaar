@@ -5,7 +5,7 @@
   <a href="https://gitlab.com/Hkaar" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gitlab/default.svg" width="44" height="32" alt="gitlab logo"  />
   </a>
-  <a href="mailto:hkaar@duck.com">
+  <a href="mailto:hkaardev@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="44" height="32" alt="email"  />
   </a>
 </div>
